@@ -1,4 +1,5 @@
-<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<meta name='viewport' content='width=device-width, initial-scale=1'/>
+<!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -6,7 +7,7 @@
 <meta name="description" content="Calcolo mutuo e prestito online gratuito. Simula rata mensile, interessi, anticipo e visualizza la tabella di ammortamento completa.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- CODICE GOOGLE ADSENSE -->
+<!-- CODICE GOOGLE ADSENSE (VERIFICA) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3099756567574901"
      crossorigin="anonymous"></script>
 
@@ -123,15 +124,6 @@ button:hover{
     color: var(--text);
 }
 
-.ads{
-    margin: 28px 0;
-    padding: 20px;
-    background: #f1f1f1;
-    text-align: center;
-    color: #666;
-    border-radius: 12px;
-}
-
 .table-wrapper{
     overflow-x: auto;
     margin-top: 10px;
@@ -237,14 +229,10 @@ table tr:nth-child(even){
         <div id="risultato" class="result" style="display:none;"></div>
     </div>
 
-    <div class="ads">Spazio Google AdSense</div>
-
     <div class="table-title">Tabella di Ammortamento</div>
     <div class="table-wrapper">
         <table id="ammortamento"></table>
     </div>
-
-    <div class="ads">Spazio Google AdSense</div>
 
     <p style="text-align:center; color:#666; margin-top: 20px;">
         Questo strumento consente di simulare un mutuo o prestito personale, calcolando la rata,
