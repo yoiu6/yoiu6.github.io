@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3099756567574901"
+     crossorigin="anonymous"></script>
+
 <meta charset="UTF-8">
 <title>Calcolo Mutuo e Prestito Online | Rata e Ammortamento</title>
 <meta name="description" content="Calcolo mutuo e prestito online gratuito. Simula rata mensile, interessi, anticipo e visualizza la tabella di ammortamento completa.">
